@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    background-color: rgb(207, 140, 40);
+}
+#h1styles{
+    color: rgbred,(15, 27, 95);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#h2style{
+background-color: blue;
+    font-size: 24px;
+}
+p{
+    color: blueviolet;
+}
+
+.liststyles{
+    list-style: disc;
+}
+.maindiv{
+    background-color: black;
+    width: 70;
+    margin-left: 30%;
+    padding: 10px;
+}
+.image{
+width: 100%;
+}
